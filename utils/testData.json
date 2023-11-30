@@ -1,0 +1,22 @@
+{
+    "task1": [
+        {
+            "input": [true, false, "1"],
+            "output": [true]
+        },
+        {
+            "input": [true, false, "1"],
+            "output": [false]
+        }
+    ],
+    "task2": [
+        {
+            "input": [true, false, "1"],
+            "output": [true]
+        },
+        {
+            "input": [true, false, "1"],
+            "output": [false]
+        }
+    ]
+}
